@@ -1,6 +1,6 @@
-# Robo arm
+# Robot claw
 
-Code for controlling a 3 axis robo arm + claw with a PS4 controller. _Disclamer: this code has been written in about an hour and was never meant to be shared._
+Code for controlling a 3 axis robot arm + claw with a PS4 controller. _Disclamer: this code has been written in about an hour and was never meant to be shared._
 
 ## Hardware
 * RPi zero
